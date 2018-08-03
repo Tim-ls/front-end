@@ -16,3 +16,8 @@
 - refactoring pay
   -  重构  购买支付，待付款的支付
 - fix some bugs
+
+## 想法
+
+- 上线一个星期两次是不是太频繁了
+- 任务bug累积太多
