@@ -2,13 +2,17 @@
 
 ## last week(7.24~7.30)
 
-* add ab test
-* add hint when lock tote
-* fix some bugs
+- add ab test
+- add hint when lock tote
+  -  确认下单的提醒
+- fix some bugs
 
 ## current week(7.31~8.3)
 
-* add closet report statistics
-* add ab test
-* refactoring pay
-* fix some bugs
+- add closet report statistics
+  - 各种需要筛选条件、router 信息
+- add ab test
+  -  新用户是否走芝麻信用，支付成功的流程。
+- refactoring pay
+  -  重构  购买支付，待付款的支付
+- fix some bugs
