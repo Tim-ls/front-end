@@ -14,7 +14,7 @@
 - add ab test
   -  新用户是否走芝麻信用，支付成功的流程。
 - refactoring pay
-  -  重构  购买支付，待付款的支付
+  -  重构购买支付，待付款的支付
 - fix some bugs
 
 ## 想法
